@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicAppStructure</string>
+
+    <!-- Page Names -->
+    <string name="activity_home_page">Home Page</string>
+    <string name="activity_my_music">My Music</string>
+    <string name="activity_now_playing">Now Playing</string>
+    <string name="activity_radio_stream">Radio Stream</string>
+    <string name="activity_search">Search</string>
+
+
+</resources>
